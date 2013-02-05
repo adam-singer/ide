@@ -1,0 +1,5 @@
+name: dart_chrome_editor
+description: A sample chrome packaged application
+dependencies:
+  js: any
+  browser: any
